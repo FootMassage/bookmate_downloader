@@ -1,6 +1,8 @@
 # Bookmate Downloader
 Downloads books from https://bookmate.com and saves them as epub format files.
 
+** (UPDATE): After installation, uninstall pycrypto and install pycryptodome, otherwise it will fail while downloading. **
+
 # You need to be subscribed to bookmate.com premium OR download books that are available for free !!!
 Works on Mac OS X, Linux.
 For Windows 10 you'll need to install WSL (Windows subsystem for linux) aka Windows Ubuntu.
